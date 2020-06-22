@@ -56,6 +56,7 @@ TOOLCHAIN_PATH ?= /usr/bin/
 This will be different if you downloaded the archive from the ARM website, so set it accordingly.
 
 Now, taking a look at the code for our blinking program:
+
 `STM32-base-F1-template/src/main.c`
 ```
 #include "stm32f1xx.h"
