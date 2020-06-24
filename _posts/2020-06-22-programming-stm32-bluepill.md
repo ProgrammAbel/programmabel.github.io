@@ -30,9 +30,9 @@ Open up your terminal and make a project directory for your code. You'll need to
 Once you've completed all these prerequisites, we can get started! In the project directory, clone the [STM32-base git repos](https://github.com/STM32-base/STM32-base), along with the [STM32-base-F1-template](https://github.com/STM32-base/STM32-base-F1-template) repo:
 
 ```
-git clone git@github.com:STM32-base/STM32-base.git
-git clone git@github.com:STM32-base/STM32-base-STM32Cube.git
-git clone git@github.com:STM32-base/STM32-base-F1-template.git
+git clone https://github.com/STM32-base/STM32-base.git
+git clone https://github.com/STM32-base/STM32-base-STM32Cube.git
+git clone https://github.com/STM32-base/STM32-base-F1-template.git
 ```
 
 This is going to contain the makefiles and basically everything else you need to program the STM32.
