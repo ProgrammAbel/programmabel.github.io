@@ -1,10 +1,10 @@
 # Site settings
 title: "Abel Binoop"
 email: 
-description: "I'm a 15-year-old tech maniac who's also into ornithology and reading. The power of open source software is my jam."
+description: "Computer Science student passionate about tech, open source, privacy, and security. Avid reader and fitness enthusiast."
 baseurl: ""
 url: "programmabel.github.io"
-title_description: "I'm a 15-year-old tech maniac who's also into ornithology and reading. The power of open source software is my jam."
+title_description: "Computer Science student passionate about tech, open source, privacy, and security. Avid reader and fitness enthusiast."
 title_image: "https://avatars.githubusercontent.com/u/51785314?v=4"
 google_analytics: 
 disqus_account: ProgrammAbel
